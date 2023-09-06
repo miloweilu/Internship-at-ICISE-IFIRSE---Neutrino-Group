@@ -10,4 +10,5 @@ This is the repository for all codes used for the following tasks:
 
 The simulation of Water Cherenkov neutrino events has been performed using the WCSim package of the GEANT4 software (see https://github.com/WCSim/WCSim). The installation was made using Docker.
 
-For more complete report
+For complete report and data, contact me at the following adress: milocharavet@gmail.com
+
